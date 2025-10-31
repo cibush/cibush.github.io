@@ -10,18 +10,28 @@ h1{
 }
 
 p{
-	color:white;
+	color:#1111FC;
+}
+
+a{
+	color:#1111FC;
 }
 
 dt{
 	text-align:left;
-	color:white;
+	color:#1111FC;
 }
 
 dd{
 	text-align:center;
 	margin-bottom: 15px;
-	color:white;
+	color:#1111FC;
+}
+
+nav {
+	color: white;
+	text-align: center;
+	padding: 20px;
 }
 
 .header {

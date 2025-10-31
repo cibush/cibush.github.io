@@ -2,13 +2,14 @@ body {
 	background-color: black;
 }
 p {
-	color:white;
+	color:#1111FC;
 
 }
 a {
-	color:white;
+	color:#1111FC;
 }
 nav {
+	color: white;
 	text-align: center;
 	padding: 20px;
 }
