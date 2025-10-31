@@ -13,3 +13,11 @@ nav {
 	text-align: center;
 	padding: 20px;
 }
+li {
+	color:#1111FC;
+}
+
+img {
+	max-width: 90%;
+	height: auto;
+}
