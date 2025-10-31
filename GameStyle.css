@@ -34,6 +34,11 @@ nav {
 	padding: 20px;
 }
 
+img {
+	max-width: 90%;
+	height: auto;
+}
+
 .header {
 	text-align: center;
 	padding: 20px;
