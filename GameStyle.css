@@ -24,12 +24,14 @@ a{
 dt{
 	text-align:left;
 	color:#1111FC;
+	font-weight: 900;
 }
 
 dd{
 	text-align:center;
 	margin-bottom: 15px;
 	color:#1111FC;
+	font-size: 24px;
 }
 
 nav {
@@ -46,6 +48,7 @@ img {
 .header {
 	text-align: center;
 	padding: 20px;
+	font-family: "Georgia", Georgia, serif;
 }
 
 .container {
